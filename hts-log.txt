@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Jun 2020 02:21:49 at http://34.82.80.202/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://34.82.80.202/ -O1 "C:\My Web Sites\nates.design" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:22:59	Error: 	"Method Not Allowed" (405) at link 34.82.80.202/xmlrpc.php (from 34.82.80.202/)
+02:23:32	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/0.jpg (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/4904603_640x640-1.jpg (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/iywnb1smv9lb9rpkitu6.png (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/ade0071f675fcb732b092f755124d5ca.png (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/0-3.jpg (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/0-4.jpg (from 34.82.80.202/)
+02:23:33	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/img08.png (from 34.82.80.202/)
+02:23:47	Error: 	"Not Found" (404) at link https://nates.design/wp-content/uploads/2020/06/download.png (from 34.82.80.202/wp-content/et-cache/213422/et-core-unified-213422-15922104744863.min.css)
+02:23:47	Warning: 	Moved Permanently for 34.82.80.202/?p=2
+02:23:47	Warning: 	File has moved from 34.82.80.202/?p=2 to http://34.82.80.202/sample-page/
+02:23:47	Error: 	"Not Found" (404) at link 34.82.80.202/wordpress/wp-admin/ (from 34.82.80.202/sample-page/)
+02:24:14	Warning: 	Found for 34.82.80.202/wp-admin/
+02:24:14	Warning: 	File has moved from 34.82.80.202/wp-admin/ to http://34.82.80.202/wp-login.php?redirect_to=http%3A%2F%2F34.82.80.202%2Fwp-admin%2F&reauth=1
+02:24:20	Error: 	"Forbidden" (403) at link 34.82.80.202/phpmyadmin (from 34.82.80.202/bitnami/index.html)
+02:24:20	Warning: 	Moved Permanently for 34.82.80.202/?p=1
+02:24:20	Warning: 	File has moved from 34.82.80.202/?p=1 to http://34.82.80.202/2020/03/26/hello-world/
+02:24:38	Error: 	"Not Found" (404) at link 34.82.80.202/bitnami/css/normalize.css (from 34.82.80.202/bitnami/bitnami.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 2 seconds : 82 links scanned, 66 files written (2860027 bytes overall) [1193153 bytes received at 6555 bytes/sec], 2316861 bytes transferred using HTTP compression in 65 files, ratio 26%, 3.9 requests per connection
+(12 errors, 6 warnings, 0 messages)
